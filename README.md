@@ -2,7 +2,7 @@
     <img src="logo.webp" alt="Logo" width="250"/>
 </div>
 
-# URL Query Binder
+# Go URL Query Binder
 Simple, yet Powerful library. This library binds the URL request query parameters to Go structs based on the given tag key.
 
 ### How to use
